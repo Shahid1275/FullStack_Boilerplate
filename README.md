@@ -417,6 +417,26 @@ tests/
 
 ---
 
+## 🔒 Security Notice
+
+**IMPORTANT:** This boilerplate uses environment variables for all sensitive data including passwords, API keys, and database credentials.
+
+### ⚠️ Never Commit:
+- ❌ `.env` files
+- ❌ Hardcoded passwords
+- ❌ API keys or tokens
+- ❌ Database credentials
+
+### ✅ Always Use:
+- ✅ Environment variables (`process.env.*`)
+- ✅ `.env.example` for templates
+- ✅ Strong, unique passwords
+- ✅ Password managers
+
+**See [SECURITY_INCIDENT_FIX.md](./SECURITY_INCIDENT_FIX.md) for security best practices.**
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
