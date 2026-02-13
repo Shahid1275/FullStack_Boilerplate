@@ -1,0 +1,31 @@
+{
+  "common": {
+    "welcome": "خوش آمدید",
+    "login": "لاگ ان",
+    "logout": "لاگ آؤٹ",
+    "register": "رجسٹر",
+    "email": "ای میل",
+    "password": "پاس ورڈ",
+    "submit": "جمع کریں",
+    "cancel": "منسوخ کریں",
+    "save": "محفوظ کریں",
+    "delete": "حذف کریں",
+    "edit": "ترمیم کریں",
+    "loading": "لوڈ ہو رہا ہے...",
+    "error": "ایک خرابی واقع ہوئی",
+    "success": "کامیابی"
+  },
+  "auth": {
+    "signIn": "سائن ان کریں",
+    "signUp": "سائن اپ کریں",
+    "forgotPassword": "پاس ورڈ بھول گئے؟",
+    "resetPassword": "پاس ورڈ ری سیٹ کریں",
+    "rememberMe": "مجھے یاد رکھیں"
+  },
+  "validation": {
+    "required": "یہ فیلڈ ضروری ہے",
+    "emailInvalid": "غلط ای میل ایڈریس",
+    "passwordMin": "پاس ورڈ کم از کم 6 حروف کا ہونا چاہیے",
+    "passwordMatch": "پاس ورڈ مماثل ہونے چاہیے"
+  }
+}
